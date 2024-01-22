@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 30px;
+    font-family: "Courier New";
+    font-style: bold;
+    font-size: 2em;
+    background-color: aliceblue;
+}
+
+.main {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans';
+    background-color: lightblue;
+    color: grey;
+}
+
+.about, .projects, .contact {
+}
