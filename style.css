@@ -19,7 +19,30 @@
     font-family: 'Gill Sans';
     background-color: lightblue;
     color: grey;
+    line-height: 1.5;
 }
 
 .about, .projects, .contact {
+
+}
+
+.about2 {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    }
+
+.selfie1 {
+    float: right;
+    max-height: 250px;
+    max-width: 250px;
+}
+
+
+.footer {
+    font-family: "Times New Roman";
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+    color: grey;
 }
