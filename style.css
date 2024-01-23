@@ -21,6 +21,9 @@
     background-color: lightblue;
     color: gray;
     line-height: 1.5;
+    display: flexbox;
+    flex-wrap: wrap;
+    flex: 50%;
 
 }
 
@@ -36,8 +39,10 @@
 
 .selfie1 {
     float: right;
-    max-height: 250px;
-    max-width: 250px;
+    max-height: 110%;
+    max-width: 110%;
+    margin-bottom: 5%;
+    margin-right: 10%;
 }
 
 
