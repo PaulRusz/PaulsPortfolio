@@ -22,17 +22,15 @@
     background-color: lightblue;
     color: gray;
     line-height: 1.5;
-    display: flexbox;
-    flex-wrap: wrap;
-    flex: 50%;
-
 }
 
-.about, .projects, .contact {
-
-}
-
-
+/*section {
+        overflow-x: auto;
+        white-space: normal;
+        width: auto;
+        display: flex;
+        flex-wrap: wrap;
+} */
 
 .selfie1 {
     float: right;
