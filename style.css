@@ -8,7 +8,7 @@
     padding: 30px;
     font-family: "Courier New";
     font-style: bold;
-    font-size: 2em;
+    font-size: 3em;
     background-color: aliceblue;
 }
 
@@ -24,13 +24,15 @@
     line-height: 1.5;
 }
 
-/*section {
+/* Attempts to make the text stay in the sections on different screen sizes.  Unable to fix issue 
+#about #projects {
         overflow-x: auto;
         white-space: normal;
         width: auto;
         display: flex;
         flex-wrap: wrap;
-} */
+}
+*/
 
 .selfie1 {
     float: right;
@@ -38,6 +40,15 @@
     max-width: 110%;
     margin-bottom: 5%;
     margin-right: 10%;
+}
+
+.selfie2 {
+    float: left;
+    max-height: 110%;
+    max-width: 110%;
+    margin-bottom: 5%;
+    margin-right: 10%;
+    border-radius: 10%;
 }
 
 
