@@ -34,20 +34,22 @@ p {
 .text-content {
     display: flex;
     flex-direction: column;
-    text-align: left;
+    text-align: center;
 }
+
 
 /* Selfie1 and Selfie2 effect both the picture of me and the picture of me with a llama so as they both properly fit the 'About' section */
 .selfie1 {
-    float: left;
+    float: center;
     max-height: 15%;
     max-width: 15%;
     margin-bottom: 5%;
     margin-right: 10%;
+    align-self: center;
 }
 
 .selfie2 {
-    float: left;
+    float: center;
     max-height: 20%;
     max-width: 20%;
     margin-bottom: 5%;
