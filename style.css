@@ -37,6 +37,7 @@ p {
     text-align: left;
 }
 
+/* Selfie1 and Selfie2 effect both the picture of me and the picture of me with a llama so as they both properly fit the 'About' section */
 .selfie1 {
     float: left;
     max-height: 15%;
@@ -69,6 +70,7 @@ p {
     color: grey;
 }
 
+/* this allows for the pictures on the page to be more accessible on a mobile device and fit the screen properly */
 @media only screen and (max-width: 600px) {
     .selfie1 {
         max-height: 60%;
