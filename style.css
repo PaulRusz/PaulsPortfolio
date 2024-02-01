@@ -50,13 +50,16 @@ p {
 
 .selfie2 {
     float: center;
-    max-height: 20%;
+    max-height: 24%;
     max-width: 20%;
     margin-bottom: 5%;
     margin-right: 10%;
-    border-radius: 10%;
+    border-radius: 40%;
 }
 
+.module1-picture {
+    border-radius: 17%;
+}
 
 .container {
     position: relative;
