@@ -61,6 +61,12 @@ p {
     border-radius: 17%;
 }
 
+.module3-picture {
+    border-radius: 17%;
+    max-height: 25%;
+    max-width: 25%;
+}
+
 .container {
     position: relative;
     text-align: center;
